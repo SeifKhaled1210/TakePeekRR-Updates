@@ -1,5 +1,5 @@
 {
-    "version": "1.7.0",
+    "version": "1.8.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fix: physical memory reads bypassed by usermode scan handle, comprehensive diagnostic logging (build info, OS, memory state, key press, frame diag, integrity CRC)"
+    "changelog": "Fix: removed all usermode API calls (OpenProcess/VirtualQueryEx) targeting game process in physical mode — EAC was detecting these handles and killing the overlay"
 }
