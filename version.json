@@ -1,5 +1,5 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Add chain diagnostic logging — logs exactly where ESP chain breaks to startup.log"
+    "changelog": "Full GOM memory dump diagnostics — captures raw Unity internals to startup.log for debugging"
 }
