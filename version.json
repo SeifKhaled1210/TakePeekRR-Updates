@@ -1,5 +1,5 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fix immediate exit after module find, faster GameAssembly scan near UnityPlayer, diagnostic exit logging"
+    "changelog": "Update all RVAs for 13-Nov-2026 game build, full SDK offset verification"
 }
