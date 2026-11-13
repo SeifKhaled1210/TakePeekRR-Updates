@@ -1,5 +1,5 @@
 {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fixed overlay not loading: WM_QUIT drain after auth/waiting window, improved module scan"
+    "changelog": "Separate AuthWndProc (no more WM_QUIT contamination), click-through only updates when changed"
 }
