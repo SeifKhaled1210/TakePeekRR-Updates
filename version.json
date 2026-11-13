@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Static field bypass (no GOM needed), CinemachineBrain camera fallback, look direction, stance, network ping display"
+    "changelog": "Heap scan fallback (RRTool-style discovery when GOM+SF both fail), fixed 2-deref static field chain, look direction, stance, network ping"
 }
