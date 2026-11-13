@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Full GOM memory dump diagnostics — captures raw Unity internals to startup.log for debugging"
+    "changelog": "Static field bypass (no GOM needed), CinemachineBrain camera fallback, look direction, stance, network ping display"
 }
