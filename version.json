@@ -1,5 +1,5 @@
 {
-    "version": "1.9.0",
+    "version": "1.10.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Full Wardogs-style purge: removed ALL usermode APIs (OpenProcess, ReadProcessMemory, VirtualQueryEx, GetExitCodeProcess, Module32First/Next) — pure physical memory access only, zero handles on game process"
+    "changelog": "Menu opens on start so overlay is visible immediately; removed redundant per-frame process check; full Wardogs-style physical memory only"
 }
