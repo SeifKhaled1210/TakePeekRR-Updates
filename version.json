@@ -1,5 +1,5 @@
 {
     "version": "1.5.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "CRITICAL ESP FIX: Fixed 3-deref static field chain (GA→klass→staticFields→instance), continuous background worker with scene change detection, entities fallback dict with wrapper unwrap, world pointer klass validation, camera validation"
+    "changelog": "FULL RRTool PARITY: PlayerBattleModel local detection, template/unspawned rejection, klass validation per-frame, PublicData armor (works on ALL players), nickname from slots dictionary, dictionary class validation, background worker with scene change detection"
 }
