@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Heap scan fallback (RRTool-style discovery when GOM+SF both fail), fixed 2-deref static field chain, look direction, stance, network ping"
+    "changelog": "CRITICAL ESP FIX: Fixed 3-deref static field chain (GA→klass→staticFields→instance), continuous background worker with scene change detection, entities fallback dict with wrapper unwrap, world pointer klass validation, camera validation"
 }
