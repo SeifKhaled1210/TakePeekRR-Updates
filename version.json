@@ -1,5 +1,5 @@
 {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fix: removed all usermode API calls (OpenProcess/VirtualQueryEx) targeting game process in physical mode — EAC was detecting these handles and killing the overlay"
+    "changelog": "Full Wardogs-style purge: removed ALL usermode APIs (OpenProcess, ReadProcessMemory, VirtualQueryEx, GetExitCodeProcess, Module32First/Next) — pure physical memory access only, zero handles on game process"
 }
