@@ -1,5 +1,5 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "GOM dynamic discovery + validation, offset fallbacks, world via BattleModel+0x518, component handle path, BattleModel caching, DX11 leak fixes"
+    "changelog": "Fix immediate exit after module find, faster GameAssembly scan near UnityPlayer, diagnostic exit logging"
 }
