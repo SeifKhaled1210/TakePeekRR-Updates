@@ -1,5 +1,5 @@
 {
-    "version": "1.12.4",
+    "version": "1.12.5",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.4: ESP positions now use SimulatedModel (client-interpolated) matching what the renderer draws — fixes position offset and jitter"
+    "changelog": "v1.12.5: Major FPS fix (cached sim map, fewer kernel reads), position accuracy improved, noclip fixed, teleport Alt+1-5 keys added, god mode anti-kick (removed detectable cheat flag)"
 }
