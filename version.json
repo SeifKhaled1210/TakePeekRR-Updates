@@ -1,5 +1,5 @@
 {
-    "version": "1.12.6",
+    "version": "1.12.7",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.6: DPI awareness fix (ESP offset on high-DPI monitors), bulk camera read (consistent vectors), loot/cargo position fix (IPrimitiveData dereference), camera validation cached, CheatSprint kick warning"
+    "changelog": "v1.12.7: Fixed SF bypass missing BattleModel/BattleEntities — FOV now reads from Brain chain (was hardcoded 60), sim map builds for smooth positions, exploits find local player, noclip/teleport/speedhack restored"
 }
