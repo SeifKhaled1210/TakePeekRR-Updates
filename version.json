@@ -1,5 +1,5 @@
 {
-    "version": "1.12.1",
+    "version": "1.12.2",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fixed GOM walk (all 3 lists), fixed MainCamera sentinel, fixed WorldFallback offset 0x518->0x510, fixed SF RVA validation"
+    "changelog": "Fixed ESP rendering: player positions now read correctly via IPrimitiveData dereference, W2S replaced with direct dot-product projection matching SDK Nov 13, FOV read from Brain via AIM chain"
 }
