@@ -1,5 +1,5 @@
 {
-    "version": "1.12.9",
+    "version": "1.12.10",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.9: FOV diagnostic overlay (shows FOV value + [B]rain/[D]efault + sim map hit ratio), faster AimUpdater discovery with fresh heap scan"
+    "changelog": "v1.12.10: Fix overlay freeze — rate-limit AimUpdater heap scan to every 5s instead of every 500ms"
 }
