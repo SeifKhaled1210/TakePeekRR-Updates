@@ -1,5 +1,5 @@
 {
-    "version": "1.12.2",
+    "version": "1.12.3",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fixed ESP rendering: player positions now read correctly via IPrimitiveData dereference, W2S replaced with direct dot-product projection matching SDK Nov 13, FOV read from Brain via AIM chain"
+    "changelog": "Fixed ESP position offset (overlay now matches game client area), reduced lag by throttling player/item updates"
 }
