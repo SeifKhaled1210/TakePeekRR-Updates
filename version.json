@@ -1,5 +1,5 @@
 {
     "version": "1.12.3",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fixed ESP position offset (overlay now matches game client area), reduced lag by throttling player/item updates"
+    "changelog": "v1.12.3: Full audit — all offsets verified against SDK Nov 13. Fixed teleport CenterPosition write corrupting BCM pointers. All IPrimitiveModel/IPrimitiveData reads verified correct."
 }
