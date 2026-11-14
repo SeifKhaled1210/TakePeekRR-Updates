@@ -1,5 +1,5 @@
 {
     "version": "1.12.3",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.3: Full audit — all offsets verified against SDK Nov 13. Fixed teleport CenterPosition write corrupting BCM pointers. All IPrimitiveModel/IPrimitiveData reads verified correct."
+    "changelog": "v1.12.3: Full audit — fixed fall damage bypass (IPrimitiveData dereference), fixed WorldFallback offset (0x510->0x518), fixed container/loot/staticloot boolean reads, removed unsafe CenterPosition teleport write, skeleton head-neck connection, armor bar display fix"
 }
