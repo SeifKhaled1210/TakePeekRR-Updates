@@ -1,5 +1,5 @@
 {
-    "version": "1.12.10",
+    "version": "1.12.11",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.10: Fix overlay freeze — rate-limit AimUpdater heap scan to every 5s instead of every 500ms"
+    "changelog": "v1.12.11: Real bone ESP (FK skeleton), fix no-recoil (rotation compensation), fix noclip (gravity zeroing)"
 }
