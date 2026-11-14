@@ -1,5 +1,5 @@
 {
-    "version": "1.12.5",
+    "version": "1.12.6",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.5: Major FPS fix (cached sim map, fewer kernel reads), position accuracy improved, noclip fixed, teleport Alt+1-5 keys added, god mode anti-kick (removed detectable cheat flag)"
+    "changelog": "v1.12.6: DPI awareness fix (ESP offset on high-DPI monitors), bulk camera read (consistent vectors), loot/cargo position fix (IPrimitiveData dereference), camera validation cached, CheatSprint kick warning"
 }
