@@ -1,5 +1,5 @@
 {
-    "version": "1.12.7",
+    "version": "1.12.8",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.7: Fixed SF bypass missing BattleModel/BattleEntities — FOV now reads from Brain chain (was hardcoded 60), sim map builds for smooth positions, exploits find local player, noclip/teleport/speedhack restored"
+    "changelog": "v1.12.8: Fixed ESP position — FOV was reading garbage (BattleModel+0x198 is AimTargetModel size 0x20, not AimUpdater). Now discovers BattleAimTargetUpdater via heap scan like RRTool, reads real FOV from CinemachineBrain"
 }
