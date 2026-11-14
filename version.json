@@ -1,5 +1,5 @@
 {
-    "version": "1.11.0",
+    "version": "1.12.0",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "Fixed overlay dying on game start (removed watchdog/PE-erase); real license validation from server (no more fake Lifetime)"
+    "changelog": "Fixed game features (ESP/aimbot/radar): static field RVAs from SDK dump, re-enabled SF bypass path, fixed GOM node layout"
 }
