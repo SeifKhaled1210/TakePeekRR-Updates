@@ -1,5 +1,5 @@
 {
-    "version": "1.12.3",
+    "version": "1.12.4",
     "url": "https://raw.githubusercontent.com/SeifKhaled1210/TakePeekRR-Updates/main/TakePeekRR.exe",
-    "changelog": "v1.12.3: Full audit — fixed fall damage bypass (IPrimitiveData dereference), fixed WorldFallback offset (0x510->0x518), fixed container/loot/staticloot boolean reads, removed unsafe CenterPosition teleport write, skeleton head-neck connection, armor bar display fix"
+    "changelog": "v1.12.4: ESP positions now use SimulatedModel (client-interpolated) matching what the renderer draws — fixes position offset and jitter"
 }
